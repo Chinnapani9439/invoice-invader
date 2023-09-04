@@ -9,7 +9,7 @@ import base64
 import time
 
 # Set up your OpenAI API key
-openai.api_key = "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"
+openai.api_key = "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"
 
 # Function to extract layouts using pdfplumber
 def extract_layouts(pdf_path):
